@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Футболка",
+    "category": "футболки",
+    "price": 1890,
+    "brand": "CityWear",
+    "imageUrl": "tshirt_city.jpg",
+    "stock": true,
+    "offer": ""
+  },
+  {
+    "name": "Футболка  с принтом",
+    "category": "футболки",
+    "price": 1590,
+    "brand": "TravelStyle",
+    "imageUrl": "tshirt_travel.jpg",
+    "stock": true,
+    "offer": "распродажа"
+  },
+  {
+    "name": "Кружка",
+    "category": "кружки",
+    "price": 890,
+    "brand": "CityCup",
+    "imageUrl": "mug_city.jpg",
+    "stock": true,
+    "offer": ""
+  },
+  {
+    "name": "Кружка с изображением",
+    "category": "кружки",
+    "price": 990,
+    "brand": "SouvenirArt",
+    "imageUrl": "mug_souvenir.jpg",
+    "stock": false,
+    "offer": ""
+  },
+  {
+    "name": "Магнит",
+    "category": "магниты",
+    "price": 290,
+    "brand": "TravelGift",
+    "imageUrl": "magnet_city.jpg",
+    "stock": true,
+    "offer": ""
+  },
+  {
+    "name": "Магнит на холодильник",
+    "category": "магниты",
+    "price": 350,
+    "brand": "MagnetArt",
+    "imageUrl": "magnet_collect.jpg",
+    "stock": true,
+    "offer": "новинка"
+  },
+  {
+    "name": "Брелок металлический",
+    "category": "брелоки",
+    "price": 390,
+    "brand": "KeyWorld",
+    "imageUrl": "keychain_metal.jpg",
+    "stock": true,
+    "offer": ""
+  },
+  {
+    "name": "Брелок из дерева",
+    "category": "брелоки",
+    "price": 450,
+    "brand": "CityKey",
+    "imageUrl": "keychain_city.jpg",
+    "stock": true,
+    "offer": ""
+  },
+  {
+    "name": "Футболка лимитированная",
+    "category": "футболки",
+    "price": 2290,
+    "brand": "UrbanSouvenir",
+    "imageUrl": "tshirt_limited.jpg",
+    "stock": false,
+    "offer": "Лимитированная коллекция"
+  },
+  {
+    "name": "Кружка подарочная",
+    "category": "кружки",
+    "price": 1290,
+    "brand": "GiftCup",
+    "imageUrl": "mug_gift.jpg",
+    "stock": true,
+    "offer": "Подарок при покупке 2 кружек"
+  }
+]
